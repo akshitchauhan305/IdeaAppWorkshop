@@ -1,0 +1,14 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "This is just an workshop practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshit Rajput",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
